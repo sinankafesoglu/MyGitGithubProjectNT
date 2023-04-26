@@ -8,6 +8,9 @@ public class AtmProject {
         //version3
         System.out.println("Git öğrenmek çok kolay;)");
         //version4
+
+        System.out.println("sinan branchi kodlarını yazdı.");
+        //version snn1
     }
 
 }
