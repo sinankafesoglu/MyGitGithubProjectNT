@@ -19,6 +19,7 @@ public class AtmProject {
         //snn3
         System.out.println();
         //localde değişiklik yaptım.
+        //remoteda değişiklik yaptım
     }
 
 }
